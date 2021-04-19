@@ -6,7 +6,7 @@ Prepared a Demo file "model_.ipynb" which contains my approach to solve this pro
 To run the model_.ipynb file. Click on below button which will redirect you to colab.
 
     • Run cells of the given file by using shift+enter or ctrl+enter.
-    • To predict on your data change the text variable with your code snippet.
+    • To predict on your data, change the text variable with your code snippet.
 
 Checkout our demo notebook for loading checkpoints
 <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7mX0_CKwGrlmCoigmtpsHsU9D_GSsjT#scrollTo=OJmc2BJYZGN6)<br>
