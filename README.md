@@ -11,8 +11,9 @@ To run the model_.ipynb file. Click on below button which will redirect you to c
 Checkout our demo notebook for loading checkpoints
 <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M7mX0_CKwGrlmCoigmtpsHsU9D_GSsjT#scrollTo=OJmc2BJYZGN6)<br>
 
-# Example:
-Successfully detected corner of document and align it to bird-eye view. 
+# Examples:
+Successfully predicted programming language using code snippets.
+
 ### Results:
 <img src ='https://raw.githubusercontent.com/abhiishekporwal/Programming-Language-Detector/main/Results/Result1.png'>
 
